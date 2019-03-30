@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="options">
+        <item>Pilih Satuan</item>
+        <item>Decibel (Db)</item>
+        <item>Decibel Miliwatt (Dbm)</item>
+        <item>Decibel Watt (Dbw)</item>
+    </array>
+</resources>
